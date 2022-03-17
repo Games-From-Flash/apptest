@@ -3,7 +3,7 @@
     "background_color": "#3e3f57",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/html/index.html",
+    "start_url": "/index.html",
     "name": "Flash Games Archive",
     "short_name": "Flash",
     "description": "Flash Games Archive, for games.",
