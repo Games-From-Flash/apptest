@@ -1,0 +1,21 @@
+{
+  "short_name": "Flash Archive",
+  "name": "Flash Archive",
+  "description": "Hosts a bunch of Flash games, emulated using the Ruffle emulator..",
+  "icons": [
+    {
+      "src": "img/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3e3f57",
+  "display": "standalone",
+  "theme_color": "#3e3f57"
+}
